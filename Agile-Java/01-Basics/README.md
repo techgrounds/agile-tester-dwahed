@@ -86,14 +86,14 @@ Er zijn natuurlijk heel veel boeken geschreven over Java. Wij raden sterk aan om
 
 Java heeft veel aparte termen en begrippen. Je coach gaat hier natuurlijk uitleg over geven, maar het is belangrijk om ook zelf een beeld te vormen. Doe zelf onderzoek naar de volgende termen en beschrijf **in 1 zin** het high-level concept. Bespreek dit met je groepje als iedereen dit heeft gedaan.
 
-* Object
-* Class
-* Package
-* Constructor
-* Field
-* Method
-* Parameter
-* public static void main(string[] args)
+* Object = Een Java object in een onderdeel van een Class, zoals in echt wereld heeft een object eigen identiteid, gedrag en status. met variabelen weergeef je de status en methode de functionaliteit. 
+* Class = Is een sjabloon waarin je de java objecten kan creeren en de objectgegevens en methodes kan definieren.
+* Package = Is een bundel van geralteerde bestanden. Packages worden gebruikt om de bestanden te organiseren, voorbeeld: met zelfde functies.
+* Constructor = Is een speciale methode die gebruikt wordt om objecten in op te slaan en die wordt aangeroepen als er een object van een Class is gecreerd.
+* Field = Een Field is een variabel binnen een Class, denk hierbij: naam, leeftijd, kleur, afstand ect.
+* Method = Is een stuk code die alleen wordt uitgevoerd als het wordt aangeroepen. Methodes voeren bepaalde acties uit, die ook wel functies genoemd. 
+* Parameter = !!! A parameter is a variable used to define a particular value during a function definition. Whenever we define a function we introduce our compiler with some variables that are being used in the running of that function. These variables are often termed as Parameters.!!!
+* public static void main(string[] args) = ???
 
 
 
