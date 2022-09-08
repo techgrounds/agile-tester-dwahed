@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/basic java.iml" filepath="$PROJECT_DIR$/basic java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AgileJava.iml" filepath="$PROJECT_DIR$/AgileJava.iml" />
     </modules>
   </component>
 </project>
