@@ -1,5 +1,6 @@
 # Functional testing uitleg
 
+<<<<<<< HEAD
 Functioneel testen wordt uitgevoerd op basis van vooraf opgestelde situatie (requirements) en te verwachten functies. Je controleert als ware de uitkomst van de ontwikkeling met wat je hier van tevoren over hebt opgeschreven. Er bestaan verschillende soorten functionele testen, enkele voorbeelden hieronder:
 
 -	Unit testing
@@ -9,11 +10,15 @@ Functioneel testen wordt uitgevoerd op basis van vooraf opgestelde situatie (req
 -	Integration testing 
 -	Acceptance testing 
 
+=======
+Schrijf hier
+>>>>>>> 607be228a6d6e8b6f648cbb50c2a3a9d0324a202
 
 --------------------------------
 
 # Non-functional testing uitleg
 
+<<<<<<< HEAD
 Niet functioneel testen richt zich op de applicatie als geheel. Het gaat hierbij meestal niet om vooraf opgestelde requirements, maar meer om de vraag of het product goed is in gebruik. Is het veilig, snel genoeg of prettig in gebruik etc. Er bestaan verschillende soorten niet-functionele testen, enkele voorbeelden hieronder:
 
 -	Performance/load testing
@@ -23,16 +28,23 @@ Niet functioneel testen richt zich op de applicatie als geheel. Het gaat hierbij
 -	Security testing
 -	Usability testing 
 
+=======
+Schrijf hier
+>>>>>>> 607be228a6d6e8b6f648cbb50c2a3a9d0324a202
 
 -----------------------------------------
 
 # Wat versta jij onder maintenance testing?
 
+<<<<<<< HEAD
 Maintenance testen is onderhouden na implementatie van de software. Wanneer er wijzigingen worden aangebracht als onderdeel van onderhoud, moeten maintenance tests worden uitgevoerd, zowel om het succes waarmee de wijzigingen zijn aangebracht te evalueren en te controleren op mogelijke bijwerkingen (bijv. regressies) in delen van het systeem die onveranderd blijven (wat meestal het grootste deel van het systeem is). Maintenance tests zijn gericht op het testen van de wijzigingen aan het systeem en het testen van ongewijzigde onderdelen die mogelijk door de wijzigingen zijn beïnvloed. Onderhoud (maintenance) kan zowel geplande releases als ongeplande releases betreffen. Een onderhoudsrelease kan maintenance testen vereisen op meerdere testniveaus, met behulp van verschillende testtypes. Er bestaan 2 soorten maintenance testen:
 
 -	Confermation testing
 -	Regression testing 
 
+=======
+Schrijf hier
+>>>>>>> 607be228a6d6e8b6f648cbb50c2a3a9d0324a202
 
 -----------------------------------------
 
@@ -40,4 +52,8 @@ Maintenance testen is onderhouden na implementatie van de software. Wanneer er w
 
 Schrijf hier
 
+<<<<<<< HEAD
 -----------------------------------------
+=======
+-----------------------------------------
+>>>>>>> 607be228a6d6e8b6f648cbb50c2a3a9d0324a202
