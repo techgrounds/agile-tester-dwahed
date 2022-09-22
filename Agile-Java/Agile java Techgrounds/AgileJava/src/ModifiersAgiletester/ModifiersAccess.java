@@ -38,7 +38,7 @@ Opdrachten Modifiers & More
 
     /* Opdracht 2: Non-access modifiers
 
-    Static =
+    Static = Met Static zorg je ervoor dat je info. tussen meerdere class kan delen.
     Final = final variable kan je maar eenmaal gebruiken.
     Waarde die eenmaal aan de final variabele is toegewezen, kan niet worden gewijzigd.
 

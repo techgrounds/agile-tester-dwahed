@@ -1,12 +1,10 @@
 package Constructors;
 
-public class Constructors {
+public class Runner {
     public static void main(String[] args) {
 
         Car myCar = new Car("Groen");
-        System.out.println(myCar.color);
-
-
+        System.out.println(myCar);
 
     }
 }
