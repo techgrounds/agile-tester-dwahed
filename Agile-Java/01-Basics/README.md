@@ -94,7 +94,7 @@ Java heeft veel aparte termen en begrippen. Je coach gaat hier natuurlijk uitleg
 * Field = Een Field is een variabel binnen een Class, denk hierbij: naam, leeftijd, kleur, afstand ect.
 * Method = Is een stuk code die alleen wordt uitgevoerd als het wordt aangeroepen. Methodes voeren bepaalde acties uit, die ook wel functies genoemd. 
 * Parameter = !!! A parameter is a variable used to define a particular value during a function definition. Whenever we define a function we introduce our compiler with some variables that are being used in the running of that function. These variables are often termed as Parameters.!!!
-* public static void main(string[] args) = ???
+* public static void main(string[] args) = Is de constroctor.
 =======
 * Object
 * Class

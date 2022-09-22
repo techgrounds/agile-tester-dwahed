@@ -38,6 +38,7 @@ hoe pullen we dat?
 
 * git fetch --all
 * git pull origin template --allow-unrelated-histories
+* git pull template main --allow-unrelated-histories
 * git status
 
 Zorg er wel altijd voor dat je eerst je eigen dingen commit en pusht! Dit doe je zo : 
